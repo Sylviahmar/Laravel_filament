@@ -1,5 +1,14 @@
 Laravel Filament Project Setup Guide
 
+>>>Note for the commpany<<
+as descriped by the handout i have created product module, stock module, and sales module .
+but due to lack of resources and insuffecient experience in filament 
+>>some how my repeater for stock for multiple order is not working but single items at a time is working.
+>> repeater issue for the sales too for multiple products to sale. 
+
+despite of all this my product module and stock mudule is working perfectly fine. 
+
+
 Prerequisites
 Before starting, ensure you have the following installed:
 
